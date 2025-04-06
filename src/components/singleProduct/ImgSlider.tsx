@@ -17,8 +17,8 @@ const images = [
   { id: 2, src: "/imgs/thumbnail-2.jpg", alt: "Slide 2" },
   { id: 3, src: "/imgs/thumbnail-3.jpg", alt: "Slide 3" },
   { id: 4, src: "/imgs/thumbnail-4.jpg", alt: "Slide 4" },
-  { id: 4, src: "/imgs/thumbnail-1.jpg", alt: "Slide 4" },
-  { id: 4, src: "/imgs/thumbnail-2.jpg", alt: "Slide 4" },
+  { id: 5, src: "/imgs/thumbnail-1.jpg", alt: "Slide 5" },
+  { id: 6, src: "/imgs/thumbnail-2.jpg", alt: "Slide 6" },
 ];
 
 const ImgSlider = () => {
